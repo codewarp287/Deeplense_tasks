@@ -76,7 +76,7 @@ This repository contains my solutions for the **DeepLense GSoC 2025 Evaluation T
 
 ## Evaluation Summary
 
-| Task | Metrics | Best Scores (examples) |
+| Task | Metrics | Best Scores |
 |------|---------|------------------------|
 | I | AUC (3 classes) | 0.9913 |
 | II | AUC | 0.9990 |
