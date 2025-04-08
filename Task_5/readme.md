@@ -14,7 +14,7 @@ This directory contains my solution to **Task IV: Physics-Informed Transformers*
 - **Input Shape:** (1 × 150 × 150)
 - **Evaluation Metric:** Macro-AUC
 
---- 
+---
 
 ## Architecture
 
@@ -63,10 +63,6 @@ This model combines:
 ### ROC Curve (Test Set)
 
 ![ROC Curve](results.png)
-
-- **Class 0 (no-sub):** AUC ≈ 0.99
-- **Class 1 (cdm):** AUC ≈ 0.99
-- **Class 2 (axion):** AUC ≈ 1.00
 
 ---
 
