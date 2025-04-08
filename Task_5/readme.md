@@ -14,7 +14,7 @@ This directory contains my solution to **Task IV: Physics-Informed Transformers*
 - **Input Shape:** (1 × 150 × 150)
 - **Evaluation Metric:** Macro-AUC
 
----
+--- 
 
 ## Architecture
 
