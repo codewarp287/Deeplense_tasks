@@ -33,7 +33,7 @@ This directory contains my implementations for the **super-resolution tasks**:
 
 ### Sample Outputs
 
-![Synthetic Super-Resolution Results](results1)
+![Synthetic Super-Resolution Results](results1.png)
 
 ---
 
@@ -55,6 +55,6 @@ This directory contains my implementations for the **super-resolution tasks**:
 
 ### Sample Outputs
 
-![Real Super-Resolution Results](results2)
+![Real Super-Resolution Results](results2.png)
 
 ---
