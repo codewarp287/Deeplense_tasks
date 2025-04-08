@@ -8,7 +8,7 @@ This directory contains my implementations for the **super-resolution tasks**:
 ---
 
 ## Task III.A – Synthetic Super-Resolution
-
+ 
 - **Goal:** Reconstruct high-resolution (150×150) images from low-resolution (75×75) simulated lensing images.
 - **Model:** RCAN (Residual Channel Attention Network)
 - **Framework:** PyTorch
