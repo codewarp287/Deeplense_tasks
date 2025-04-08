@@ -35,7 +35,7 @@ This directory contains my solution for **Task I: Multi-Class Classification**. 
 
 ---
 
-## 📈 Results
+## Results
 
 - **Best Validation Macro AUC:** `0.9906`
 - **Test Set Mean AUC:** `0.9913`
